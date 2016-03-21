@@ -1,0 +1,61 @@
+.body {
+  font: 11px sans-serif;
+}
+
+svg {
+  padding: 10px 0 0 10px;
+
+}
+
+.arcLabel { font: 11px sans-serif; fill: #fff; }
+
+
+.arc {
+  stroke: #fff;
+}
+
+.donut {
+	padding-top: 15px;
+}
+
+.toc {
+  padding-left: 150px;
+padding-top: 2px;
+padding-bottom: 10px;
+
+}
+
+.content {
+margin: 0;
+padding-left: 200px;
+padding-right: 200px;
+padding-top: 50px;
+width: 80%;
+}
+
+a:link.back {
+color: #808080
+;
+text-decoration: none;
+}
+
+a:visited.back {
+color: #808080
+;
+text-decoration: none;
+}
+
+a:link.table {
+color: #000000
+;
+text-decoration: none;
+}
+
+a:visited.table {
+color: #000000
+;
+text-decoration: none;
+}
+
+
+
